@@ -3,7 +3,7 @@ Multi-signature wallets (or multi-sig wallets) are crypto wallets that require t
 
 The number of signatures required to sign a transaction is dependent on the kind of multi-sig wallet.
 
-Multi-sig wallet required at least 80% of the owners of the wallet to approve a transaction before a transaction is confirmed.
+A multi-sig wallet requires at least 80% of the owners of the wallet to approve a transaction before a transaction is confirmed.
 
 
 The wallet owners can;
